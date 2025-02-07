@@ -1,0 +1,16 @@
+HARDWARE*:
+    Physical components that a computer is made up of:
+
+    * (CPU): Central Processing Unit:
+        part of a computer that actually runs programs. The CPU is the most important component
+        in a computer because without it, the computer could not run software. 
+
+        the central processing unit consists of two parts: the control unit and the arithmetic and logic unit {ALU). The control unit coordinates all of the compurer's operations.
+        It is responsible for determining where to get the next instruction and regulating the other
+        major components of the computer with control signals. The arithmetic and logic unit, as
+        its name suggests, is designed to perform mathematical operations
+
+    *Main Memory:
+    *Secondary Storage Devices
+    *Input Devices
+    *Output Devices
